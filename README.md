@@ -61,7 +61,7 @@ Atualmente estudando **HTML, CSS, JavaScript e Node.js**, com objetivo de me tor
   <a href="<!-- troque aqui com o link do seu Instagram -->">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="<!-- troque aqui com o link do seu LinkedIn -->">
+  <a href="https://www.linkedin.com/in/thyagojosedev
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
