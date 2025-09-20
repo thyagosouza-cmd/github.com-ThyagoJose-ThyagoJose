@@ -1,6 +1,5 @@
 <p align="center">
   <!-- Banner (troque a imagem depois) -->
-  <img src="https://github.com/ThyagoJose/ThyagoJose/blob/main/banner.png" alt="Banner Thyago" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou o <strong>Thyago José</strong></h1>
